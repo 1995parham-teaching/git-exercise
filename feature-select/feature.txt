@@ -1,1 +1,2 @@
-This project Can Do awesome things
+This project Can Do awesome things including: C
+This project can't do D
