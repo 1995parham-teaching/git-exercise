@@ -1,4 +1,4 @@
 # Super khafan story
 
-Ye marde mikhore be narde, 
+Ye marde kheyli seft mikhore be narde,
 barmigarde.
