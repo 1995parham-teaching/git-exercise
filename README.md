@@ -4,7 +4,7 @@ There are 4 exercises; for each one, you need to `checkout` to its branch specif
 
 Make sure to `checkout main` after finishing the problems. 
 ## Submission
-You must set up a **private** fork of this repository and complete the tasks. After the deadline, you will be asked to add the TAs as collaborators for grading. 
+You must set up a **private** clone of this repository and complete the tasks. After the deadline, you will be asked to add the TAs as collaborators for grading. 
 
 
 ## Acknowledgement
