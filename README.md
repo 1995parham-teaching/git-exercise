@@ -1,4 +1,4 @@
-# Git practical assignment
+# Git Practical Assignment (from IE Course)
 
 There are 4 exercises; for each one, you need to `checkout` to its branch specified in `{problem_name}/README.md`. After that, complete the tasks in **the same branch**.
 
